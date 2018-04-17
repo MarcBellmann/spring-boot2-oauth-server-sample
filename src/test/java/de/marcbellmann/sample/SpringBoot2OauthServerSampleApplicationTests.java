@@ -1,4 +1,4 @@
-package de.marcbellmann.springboot2oauthserversample;
+package de.marcbellmann.sample;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
